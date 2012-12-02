@@ -1,0 +1,90 @@
+/*=================================*/
+/* Skipopia Premium Theme
+/* Blue Stylesheet
+/*=================================*/
+
+body {
+	background:#334F60 url(../images/blue/background.png) repeat;
+}
+a, a:visited {
+	color:#20333F;
+	text-decoration:none;
+	border-bottom:1px solid #3E9ED9;
+}
+a:hover {
+	color:#3E9ED9;
+	text-decoration:none;
+	
+}
+
+code {
+	background:#223642;
+	color:#fff;
+}
+pre {
+	background:#223642;
+}
+
+#headerlogo {
+
+	
+}
+
+
+#middlebar-head {
+	background:url(../images/blue/head.png) no-repeat;
+}
+#middlebar-big {
+	background:url(../images/blue/phone.png) no-repeat;
+}
+#middlebar-big p {
+	color:#b8e5ff;
+}
+#middlebar-big a.learn-more {
+	background:url(../images/blue/learn_more.png) no-repeat;
+}
+#middlebar-small {
+	/*background:url(../images/blue/middlebar_small.png) no-repeat top;*/
+}
+
+
+#leftnav a {
+	color:white;
+	border:0;
+	font-weight:bold;
+}
+#leftnav a:hover {
+	color:#87D2FF;
+}
+#rightnav a {
+	color:grey;
+    
+	border:0;
+}
+#rightnav a:hover {
+	color:black;
+}
+input:focus,
+textarea:focus,
+select:focus {
+  border: 1px solid #213540;
+}
+a.button {
+
+	
+	color: white;
+	font-weight:bold;
+	
+	
+  background: #223541;
+}
+input.button {
+  background: #223541;
+}
+
+p.buy-now a {
+	background:#3D9AD2;
+}
+#loginfooter {
+	background:url(../images/blue/footer.png) no-repeat;
+}
